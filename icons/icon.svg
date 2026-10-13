@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- PCBView app icon: a board with a chip, top (red) and bottom (blue) copper, gold pads. -->
+  <rect width="512" height="512" rx="112" fill="#161b22"/>
+  <rect x="72" y="72" width="368" height="368" rx="40" fill="#14532d"/>
+  <rect x="72" y="72" width="368" height="368" rx="40" fill="none" stroke="#2ea043" stroke-width="10"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="16">
+    <path d="M206 236H150v-56h-28" stroke="#1f6fff"/>
+    <path d="M206 276H136v64" stroke="#1f6fff"/>
+    <path d="M306 236h56v-62" stroke="#ff2a2a"/>
+    <path d="M306 276h40l30 30v40" stroke="#ff2a2a"/>
+    <path d="M236 206v-52h-40v-30" stroke="#ff2a2a"/>
+    <path d="M276 306v54h56" stroke="#1f6fff"/>
+  </g>
+  <g fill="#f2c94c" stroke="#8a6d1a" stroke-width="5">
+    <circle cx="122" cy="180" r="15"/>
+    <circle cx="136" cy="356" r="15"/>
+    <circle cx="362" cy="160" r="15"/>
+    <circle cx="376" cy="362" r="15"/>
+    <circle cx="196" cy="118" r="15"/>
+    <circle cx="332" cy="360" r="15"/>
+  </g>
+  <rect x="196" y="196" width="120" height="120" rx="14" fill="#24292f" stroke="#57606a" stroke-width="6"/>
+  <g fill="#c9d1d9">
+    <rect x="218" y="180" width="12" height="16" rx="2"/><rect x="250" y="180" width="12" height="16" rx="2"/><rect x="282" y="180" width="12" height="16" rx="2"/>
+    <rect x="218" y="316" width="12" height="16" rx="2"/><rect x="250" y="316" width="12" height="16" rx="2"/><rect x="282" y="316" width="12" height="16" rx="2"/>
+    <rect x="180" y="218" width="16" height="12" rx="2"/><rect x="180" y="250" width="16" height="12" rx="2"/><rect x="180" y="282" width="16" height="12" rx="2"/>
+    <rect x="316" y="218" width="16" height="12" rx="2"/><rect x="316" y="250" width="16" height="12" rx="2"/><rect x="316" y="282" width="16" height="12" rx="2"/>
+  </g>
+  <circle cx="220" cy="220" r="7" fill="#57606a"/>
+</svg>
