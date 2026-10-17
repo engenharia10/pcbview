@@ -9,8 +9,8 @@ Visualizador de placas e esquemáticos no navegador — também instalável como
 
 Os arquivos são abertos localmente, no próprio navegador: nada é enviado para servidores.
 
-Esta é a versão publicada (minificada) — versão 1.6.23.
+Esta é a versão publicada (minificada) — versão 1.6.24.
 
 Bibliotecas incluídas: [three.js](https://threejs.org) (MIT) e [occt-import-js](https://github.com/kovacsv/occt-import-js) (LGPL-2.1); licenças em `vendor/`.
 
-Footprints da [biblioteca oficial do KiCad](https://gitlab.com/kicad/libraries/kicad-footprints) (CC-BY-SA 4.0, com exceção para uso em projetos) são baixados sob demanda e guardados no navegador.
+Footprints e símbolos das bibliotecas oficiais do KiCad ([footprints](https://gitlab.com/kicad/libraries/kicad-footprints), [símbolos](https://gitlab.com/kicad/libraries/kicad-symbols); CC-BY-SA 4.0, com exceção para uso em projetos) são baixados sob demanda e guardados no navegador.
