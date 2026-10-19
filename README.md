@@ -9,7 +9,7 @@ Visualizador de placas e esquemáticos no navegador — também instalável como
 
 Os arquivos são abertos localmente, no próprio navegador: nada é enviado para servidores.
 
-Esta é a versão publicada (minificada) — versão 1.6.97.
+Esta é a versão publicada (minificada) — versão 1.6.98.
 
 Bibliotecas incluídas: [three.js](https://threejs.org) (MIT), [occt-import-js](https://github.com/kovacsv/occt-import-js) (LGPL-2.1) e [Clipper](http://www.angusj.com/clipper2/) (Boost); licenças em `vendor/`.
 
