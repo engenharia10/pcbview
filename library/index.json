@@ -8,6 +8,14 @@
       "url": "library/PCBView_Sensor.kicad_sym",
       "file": true,
       "credit": "PCBView (datasheet Bosch Sensortec BST-BMI323-DS000-13)"
+    },
+    "PCBView_Regulator": {
+      "names": [
+        "TC1268"
+      ],
+      "url": "library/PCBView_Regulator.kicad_sym",
+      "file": true,
+      "credit": "PCBView (datasheet Microchip DS21379B)"
     }
   },
   "fp": {
