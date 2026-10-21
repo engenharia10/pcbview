@@ -11,11 +11,16 @@
     },
     "PCBView_Regulator": {
       "names": [
-        "TC1268"
+        "TC1268",
+        "TC1262-2.5VDB",
+        "TC1262-2.8VDB",
+        "TC1262-3.0VDB",
+        "TC1262-3.3VDB",
+        "TC1262-5.0VDB"
       ],
       "url": "library/PCBView_Regulator.kicad_sym",
       "file": true,
-      "credit": "PCBView (datasheet Microchip DS21379B)"
+      "credit": "PCBView (datasheets Microchip DS21379B, DS20001373D)"
     }
   },
   "fp": {
