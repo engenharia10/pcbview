@@ -1,15 +1,17 @@
-# PCBView
+# CircuitDesk
 
-Visualizador de placas e esquemáticos no navegador — também instalável como aplicativo (PWA).
+Esquemáticos e placas de circuito no navegador: abre, edita, roteia e gera a fabricação — também instalável como aplicativo (PWA).
 
 - Placas `.pcb` e esquemáticos `.sch` (binário e ASCII)
 - Placas `.PcbDoc` e esquemáticos `.SchDoc`
 - Camadas, componentes, redes, BOM, medição, rotação da vista e visualização 3D (com modelos STEP)
 - Gera o esquemático a partir da placa; cria e edita esquemáticos e salva em `.sch` (ASCII) ou `.SchDoc` (binário, como o Altium)
+- Gera a placa a partir do esquemático; posicionamento, roteamento interativo e automático (1 ou 2 camadas), polígonos de cobre, DRC e atualização pelo esquemático (ECO)
+- Fabricação: Gerber, furação, BOM, pick-and-place, netlists, STEP e PDF
 
 Os arquivos são abertos localmente, no próprio navegador: nada é enviado para servidores.
 
-Esta é a versão publicada (minificada) — versão 1.7.60.
+Esta é a versão publicada (minificada) — versão 1.7.61.
 
 Bibliotecas incluídas: [three.js](https://threejs.org) (MIT), [occt-import-js](https://github.com/kovacsv/occt-import-js) (LGPL-2.1) e [Clipper](http://www.angusj.com/clipper2/) (Boost); licenças em `vendor/`.
 
