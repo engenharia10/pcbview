@@ -11,7 +11,7 @@ Esquemáticos e placas de circuito no navegador: abre, edita, roteia e gera a fa
 
 Os arquivos são abertos localmente, no próprio navegador: nada é enviado para servidores.
 
-Esta é a versão publicada (minificada) — versão 1.7.77.
+Esta é a versão publicada (minificada) — versão 1.7.78.
 
 Bibliotecas incluídas: [three.js](https://threejs.org) (MIT), [occt-import-js](https://github.com/kovacsv/occt-import-js) (LGPL-2.1) e [Clipper](http://www.angusj.com/clipper2/) (Boost); licenças em `vendor/`.
 
