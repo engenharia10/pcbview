@@ -11,7 +11,7 @@ Esquemáticos e placas de circuito no navegador: abre, edita, roteia e gera a fa
 
 Os arquivos são abertos localmente, no próprio navegador: nada é enviado para servidores.
 
-Esta é a versão publicada (minificada) — versão 1.8.15.
+Esta é a versão publicada (minificada) — versão 1.8.16.
 
 Bibliotecas incluídas: [three.js](https://threejs.org) (MIT), [occt-import-js](https://github.com/kovacsv/occt-import-js) (LGPL-2.1), [UnRAR](https://www.rarlab.com) (freeware) via [node-unrar-js](https://github.com/YuJianrong/node-unrar.js) (MIT) e [Clipper](http://www.angusj.com/clipper2/) (Boost); licenças em `vendor/`.
 
